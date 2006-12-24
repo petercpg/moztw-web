@@ -8,18 +8,18 @@
 = 快速步驟 =
 
 已經很熟悉錯誤追蹤系統的人，大概不用看本文，或看完這段就夠了：
-  #以 Google Account 登入 Google Code
-  #到 moztw-web 的 [http://code.google.com/p/moztw-web/issues/list Issues] 頁面
-  #按下左上角的 New Issue
-  #按頁面指示填入就行了。
+  # 以 Google Account 登入 Google Code
+  # 到 moztw-web 的 [http://code.google.com/p/moztw-web/issues/list Issues] 頁面
+  # 按下左上角的 New Issue
+  # 按頁面指示填入就行了。
 
 = 接受回報的範圍 =
 
 我們也還在試用這個系統，目前接受回報的產品範圍為：
-  #網站（moztw.org 所有網站，包含討論區跟 Wiki）
-  #主機（跟 moztw.org 網站系統端有關的問題）
-  #本地化（Firefox & Thunderbird）
-  #行銷推廣（就... 行銷推廣啊...）
+  # 網站（moztw.org 所有網站，包含討論區跟 Wiki）
+  # 主機（跟 moztw.org 網站系統端有關的問題）
+  # 本地化（Firefox & Thunderbird）
+  # 行銷推廣（就... 行銷推廣啊...）
 
 = Labels =
 
