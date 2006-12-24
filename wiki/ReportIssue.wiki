@@ -1,4 +1,4 @@
-#summary 回報關於 Mozilla Taiwan 的相關問題
+#summary 回報 Mozilla Taiwan 相關問題的方法
 #labels Featured
 
 = 概要 =
