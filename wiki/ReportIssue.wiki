@@ -16,7 +16,7 @@
 = Owner =
 
 專案預設的 Owner 如下：
-  * 各軟體及官方網頁在地化相關事務: josesun
+  * 各軟體及官方網頁在地化相關事務: timdream
   * 其他 Mozilla Taiwan 事務: bobchao
 
 = 接受回報的範圍 =
@@ -24,7 +24,7 @@
 我們也還在試用這個系統，目前接受回報的產品範圍為：
   # 網站（moztw.org 所有網站，包含討論區跟 Wiki）
   # 主機（跟 moztw.org 網站系統端有關的問題）
-  # 本地化（Firefox & Thunderbird）
+  # 在地化（Firefox & Thunderbird）
   # 行銷推廣（就... 行銷推廣啊...）
 
 = Labels =
