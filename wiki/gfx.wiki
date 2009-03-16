@@ -1,30 +1,20 @@
 = May 16 Release =
 
-* Dragging features instead of choosing and clicking OK
-* Top page introduction block (slide down from header)
-* Top page introduction block content: Random user avatars
-* Top page introduction block content: Registrano style website graphic intro
-* Random users avatars on userpage
-* Add-on group change: new user / pro user / general
-* Give us feedback [forum link]
-* User deletion wording
+  * Dragging features instead of choosing and clicking OK
+  * Top page introduction block (slide down from header)
+  * Top page introduction block content: Random user avatars
+  * Top page introduction block content: Registrano style website graphic intro
+  * Random users avatars on userpage
+  * Add-on group change: new user / pro user / general
+  * Give us feedback [forum link]
+  * User deletion wording
+  * Query my open id with my e-mail address
+  * UI Dialog height should not exceed window height
+  * info edit save 
 
-* Icon (EvenWu)
-
-
-Idea pool to catch all the oral feedback from testers:
-
-    * done
-    * may-16-release || future
-    * to-be-implement
-    * to-be-discuss
-    * call-for-idea
-
+  * Icon (EvenWu)
 
 = Future Ideas =
 
-* Add one-line-comment on add-ons one suggest (alicekey)
-* User similarity block on user pages
-* Forget my open id / change my open id with E-mail auth (Tim)
-    * Empty my add-on list (Alicekey)
-    * UI Dialog height (bobchao)
+  * Add one-line-comment on add-ons one suggest (alicekey)
+  * User similarity block on user pages
