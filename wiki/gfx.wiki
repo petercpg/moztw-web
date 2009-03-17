@@ -20,7 +20,8 @@
 
 == To be discuss ==
 
-  * Reserve words
+  * Reserve url words
+  * Url changing policy 
   * header list
 
 = Future Ideas =
