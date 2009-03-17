@@ -15,6 +15,8 @@
   * Give us feedback [forum link]
 
   * Icon (EvenWu)
+  * Sticker (OOBE)
+    * sticker page layout
 
 = Future Ideas =
 
