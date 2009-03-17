@@ -18,6 +18,11 @@
   * Sticker (OOBE)
     * sticker page layout
 
+== To be discuss ==
+
+  * Reserve words
+  * header list
+
 = Future Ideas =
 
   * Add one-line-comment on add-ons one suggest (alicekey)
