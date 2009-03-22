@@ -1,15 +1,14 @@
 = May 16 Release =
 
   * Random users avatars on userpage
-  * Header list redesign
+  * (Header list redesign)
     * Top page introduction block (slide down from header)
       * Top page introduction block content: Random user avatars
       * Top page introduction block content: Registrano style website graphic intro
   * Add-on group change: new user / pro user / general
   * Dragging features instead of choosing and clicking OK
   * User deletion wording
-  * UI Dialog height should not exceed window height
-  * info edit save 
+  * UI Dialog height should not exceed window height 
   * about editing panel
      * Query my open id with my e-mail address
   * Give us feedback [forum link]
@@ -18,11 +17,15 @@
   * Sticker (OOBE)
     * sticker page layout
 
-== To be discuss ==
+== To be discussed ==
 
   * Reserve url words
   * Url changing policy 
-  * header list
+
+== To be verified ==
+
+  * Header list redesign
+  * info edit save
 
 = Future Ideas =
 
