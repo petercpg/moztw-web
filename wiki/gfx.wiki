@@ -9,8 +9,8 @@
   * Dragging features instead of choosing and clicking OK
     * Custom feature suggestion
   * UI Dialog height should not exceed window height 
-  * about editing panel
-     * Query my open id with my e-mail address
+  * faq page
+    * Query my open id with my e-mail address
   * Give us feedback [forum link]
 
 
@@ -21,7 +21,9 @@
 == To be discussed ==
 
   * Reserve url words
-  * Url changing policy 
+  * Url changing policy
+  * free layout page style
+  * place of faq page link
 
 == To be verified ==
 
