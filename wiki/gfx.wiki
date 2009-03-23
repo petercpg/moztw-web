@@ -12,6 +12,7 @@
   * faq page
     * Query my open id with my e-mail address
   * Give us feedback [forum link]
+  * /feature (feature index page)
 
 
   * Icon (EvenWu)
