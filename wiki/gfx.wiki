@@ -90,3 +90,8 @@ moztw
 
   * Add one-line-comment on add-ons one suggest (alicekey)
   * User similarity block on user pages
+  * Personal page as identity
+     - user can optionally add open id meta tags
+     - but if one add it's meta tag, then the url can never be changed and will be reserved even if one delete its own account.
+
+   
