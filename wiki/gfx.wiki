@@ -13,6 +13,8 @@
     * Query my open id with my e-mail address
   * Give us feedback [forum link]
   * /feature (feature index page)
+  * regexp bad name filter
+  * name < 3
 
 
   * Icon (EvenWu)
@@ -32,7 +34,7 @@
   * info edit save
   * User deletion wording
 
-== bad URLs ==
+== block URLs ==
 
 	'about',
 	'addons',
@@ -77,6 +79,12 @@
 	'userpage',
 	'userpages',
 	'view'
+
+== reserved URLs ==
+
+firefox 
+mozilla 
+moztw
 
 = Future Ideas =
 
