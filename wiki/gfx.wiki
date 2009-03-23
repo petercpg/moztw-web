@@ -32,6 +32,52 @@
   * info edit save
   * User deletion wording
 
+== bad URLs ==
+
+	'about',
+	'addons',
+	'auth',
+	'badge',
+	'badges',
+	'blog',
+	'comment',
+	'comments',
+	'doc',
+	'docs',
+	'download',
+	'downloads',
+	'editor',
+	'event',
+	'events',
+	'explore',
+	'feature',
+	'features',
+	'highlight',
+	'highlights',
+	'home',
+	'homes',
+	'help',
+	'helps',
+	'list',
+	'lists',
+	'image',
+	'images',
+	'js',
+	'lobby',
+	'random',
+	'share',
+	'sticker',
+	'stickers',
+	'system',
+	'systems',
+	'user',
+	'users',
+	'useravatar',
+	'useravatars',
+	'userpage',
+	'userpages',
+	'view'
+
 = Future Ideas =
 
   * Add one-line-comment on add-ons one suggest (alicekey)
