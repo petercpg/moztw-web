@@ -1,19 +1,17 @@
 = May 16 Release =
 
-  * Random users avatars on userpage
-  * (Header list redesign)
-    * Top page introduction block (slide down from header)
-      * Top page introduction block content: Random user avatars
-      * Top page introduction block content: Registrano style website graphic intro
+  * Top page introduction block (slide down from header)
+    * Top page introduction block content: Random user avatars
+    * Top page introduction block content: Registrano style website graphic intro
   * Add-on group change: new user / pro user / general
   * Dragging features instead of choosing and clicking OK
     * Custom feature suggestion
   * UI Dialog height should not exceed window height 
   * faq page
+    * footer link
     * Query my open id with my e-mail address
   * Give us feedback [forum link]
   * /feature (feature index page)
-  * regexp bad name filter
   * name < 3
 
 
@@ -23,16 +21,16 @@
 
 == To be discussed ==
 
-  * Reserve url words
-  * Url changing policy
   * free layout page style
-  * place of faq page link
 
 == To be verified ==
 
-  * Header list redesign
-  * info edit save
-  * User deletion wording
+=== Header behavior ===
+
+  * Always open at state 0 (not logged in)
+  * Always closed at state 1,2 (login but no page, login user with page)
+
+This behavior is due to the fact header block does not know which page it is on without loading javascript, and *show up something after DOM ready is really annoying (i think)*
 
 == block URLs ==
 
@@ -93,5 +91,3 @@ moztw
   * Personal page as identity
      - user can optionally add open id meta tags
      - but if one add it's meta tag, then the url can never be changed and will be reserved even if one delete its own account.
-
-   
