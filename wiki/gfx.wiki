@@ -7,9 +7,6 @@
   * Dragging features instead of choosing and clicking OK
     * Custom feature suggestion
   * UI Dialog height should not exceed window height 
-  * faq page
-    * footer link
-    * Query my open id with my e-mail address
   * Give us feedback [forum link]
   * /feature (feature index page)
   * name < 3
@@ -24,6 +21,8 @@
   * free layout page style
 
 == To be verified ==
+
+  * query openid from email
 
 === Header behavior ===
 
