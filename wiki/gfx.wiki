@@ -11,6 +11,7 @@
   * /feature (feature index page)
   * name < 3
   * changing avatar is not quite discoverable.
+  * __temp__ shows up when user w/o page delete him/herself
 
   * Icon (EvenWu)
   * Sticker (OOBE)
