@@ -1,17 +1,14 @@
 = May 16 Release =
 
-  * Top page introduction block (slide down from header)
-    * Top page introduction block content: Random user avatars
-    * Top page introduction block content: Registrano style website graphic intro
-  * Add-on group change: new user / pro user / general
+  * Top page introduction block content: Registrano style website graphic intro
   * Dragging features instead of choosing and clicking OK
     * Custom feature suggestion
   * UI Dialog height should not exceed window height 
   * Give us feedback [forum link]
   * /feature (feature index page)
   * name < 3
-  * changing avatar is not quite discoverable.
   * __temp__ shows up when user w/o page delete him/herself
+  * pretty 404
 
   * Icon (EvenWu)
   * Sticker (OOBE)
@@ -24,6 +21,10 @@
 == To be verified ==
 
   * query openid from email
+  * Top page introduction block (slide down from header)
+    * Top page introduction block content: Random user avatars
+  * Add-on group change: new user / pro user / general
+  * changing avatar is not quite discoverable.
 
 === Header behavior ===
 
