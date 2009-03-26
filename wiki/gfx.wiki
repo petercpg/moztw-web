@@ -94,3 +94,4 @@ moztw
   * Personal page as identity
      - user can optionally add open id meta tags
      - but if one add it's meta tag, then the url can never be changed and will be reserved even if one delete its own account.
+  * tagging game for the addons (bobchao)
