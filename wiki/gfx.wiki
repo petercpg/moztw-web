@@ -10,7 +10,7 @@
   * Give us feedback [forum link]
   * /feature (feature index page)
   * name < 3
-
+  * changing avatar is not quite discoverable.
 
   * Icon (EvenWu)
   * Sticker (OOBE)
@@ -26,10 +26,14 @@
 
 === Header behavior ===
 
-  * Always open at state 0 (not logged in)
-  * Always closed at state 1,2 (login but no page, login user with page)
+  # Always open 「了解本站」 at state 0 (not logged in)
+    # We would like to trick users to scroll down to see everything; the height of first block (features) almost finished at the bottom edge of visible part, users might not able to aware there are more down there.
+    # yet the block might be annoying to page builders, if so the block should always open on top page, with non-invasive speech bubble points to 「了解本站」 button after DOM load.
+  # 「更多...」 Always closed at state 1,2 (login user with or without page)
+    # something more to stuck into the block?
 
 This behavior is due to the fact header block does not know which page it is on without loading javascript, and *show up something after DOM ready is really annoying (i think)*
+  * Any behavior plan that breaks this fragment caching scheme is required to make substantial change to the caching system.
 
 == block URLs ==
 
