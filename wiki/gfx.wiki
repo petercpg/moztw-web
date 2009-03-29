@@ -6,9 +6,7 @@
   * UI Dialog height should not exceed window height 
   * Give us feedback [forum link]
   * /feature (feature index page)
-  * name < 3
-  * __temp__ shows up when user w/o page delete him/herself
-  * pretty 404
+  * pretty 404 indicate this page is available
 
   * Icon (EvenWu)
   * Sticker (OOBE)
@@ -25,6 +23,7 @@
     * Top page introduction block content: Random user avatars
   * Add-on group change: new user / pro user / general
   * changing avatar is not quite discoverable.
+  * name < 3
 
 === Header behavior ===
 
