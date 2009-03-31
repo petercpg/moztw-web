@@ -1,4 +1,5 @@
-#summary [http://code.google.com/p/support/wiki/WikiSyntax Wiki 編輯說明文件]
+#summary 4/1 活動
+[http://code.google.com/p/support/wiki/WikiSyntax Wiki 編輯說明文件]
 
 = 首頁 IE8 的宣傳圖文 =
 型態：找資料、編寫文字與圖片
