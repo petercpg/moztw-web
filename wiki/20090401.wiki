@@ -60,7 +60,7 @@
    http://moztw-web.googlecode.com/issues/attachment?aid=5451688058484420879&name=%E7%84%A1 %E6%95%B5%E5%BF%AB%E6%8A%93%E5%9C%96%E5%B0%8F.png
    http://moztw-web.googlecode.com/issues/attachment?aid=-5389231520064399335&name=%E7%84%A1%E6%95%B5%E5%BF%AB%E6%8A%93%E5%9C%96.png
 
-   在JavaScript測試中，Firefox 3 比  IE8 快了將近一倍，待 Firefox 3.5 釋出後，新一代 JavaScript 引擎還會更快。圖中的 Minefield 即為正在開發中的下一代 Firefox，其速度大幅躍進，數據已和 Chrome 不相上下。
+   在JavaScript測試中，Firefox 3 比  IE8 快了將近一倍，待 Firefox 3.5 釋出後，新一代 JavaScript 引擎還會更快。圖中的 Minefield 即為正在開發中的下一代 Firefox，其速度大幅躍進，數據已和擁有 Google V8 引擎加持的 Chrome 不相上下。我們很樂見於瀏覽器對於 JavaScript 速度的改善，因為這有助於程式設計師開發更好更棒的服務。
 
    http://taiwan.cnet.com/crave/0,2000088746,20136427,00.htm
    http://taiwan.cnet.com/digilife/0,2000089053,20136419,00.htm
