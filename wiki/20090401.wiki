@@ -15,11 +15,11 @@
 = 網頁快訊及加速器介紹 =
 型態：找資料、編寫文字與圖片
 
- * *認領人：*
+ * *認領人：*Irvin (Activities，webchunk我放棄了，試了IE8那邊的五六個台灣站，沒有一個可以正常開的……)
    # 文字就用 IE8 那邊來的就好 XD
    # 然後歡迎大家安裝 Firefox 加上 WebChunks 和 Firefox Activities
    # (強調 Firefox 是最能自訂網路體驗的瀏覽器)
-   * irvin: webchunk我放棄了，試了IE8那邊的五六個台灣站，沒有一個可以正常開的……
+   
 
 = IE8 其他功能介紹 =
 型態：找資料、編寫文字與圖片
