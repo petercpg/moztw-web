@@ -17,8 +17,11 @@
 
  * *認領人：*Irvin (Activities，webchunk我放棄了，試了IE8那邊的五六個台灣站，沒有一個可以正常開的……)
    # 文字就用 IE8 那邊來的就好 XD
-   # 然後歡迎大家安裝 Firefox 加上 WebChunks 和 Firefox Activities
+   # 然後歡迎大家安裝 Firefox 加上 [https://addons.mozilla.org/firefox/addon/8494 WebChunks] 和 Firefox Activities
    # (強調 Firefox 是最能自訂網路體驗的瀏覽器)
+   * wini: IE8 提供的網頁快訊範例，只有 MSN 可以給 WebChunks 加，其它全要求用 IE8，但 MSN 的並不能跑出什麼東西。
+     # [http://ieaddons.com/ct/webslices/ IE8 提供的網頁快訊範例站]
+     # [http://atelier-wini.blogspot.com/ 我自己網誌右邊那欄]，照 WebChunks 網站教學寫出的倒是還可以給 IE8 跑。
 
 == 熱門功能的背景灰色是 #EFEFEF （參考IE8頁面中間） ==
 
