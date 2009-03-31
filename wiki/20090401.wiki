@@ -28,6 +28,7 @@
 == 加速器 ==
    http://moztw-web.googlecode.com/issues/attachment?aid=6824264581859427260&name=%E5%8A%A0%E9%80%9F%E5%99%A8%E6%8A%93%E5%9C%96%E5%B0%8F.png
    http://moztw-web.googlecode.com/issues/attachment?aid=7439084156894362812&name=%E5%8A%A0%E9%80%9F%E5%99%A8%E6%8A%93%E5%9C%96.png
+
    使用加速器更快地完成工作
 
    只要按幾下滑鼠，就可以檢視行駛路線、翻譯文字、在網路上將您搜索的內容以電子郵件形式傳送給其他人，以及其他功能。利用 url=https://addons.mozilla.org/zh-TW/firefox/addon/6777 Firefox Activities 擴充套件/url 的「加速器」功能，更快速地完成每日的瀏覽活動。
