@@ -65,14 +65,14 @@
    http://moztw-web.googlecode.com/issues/attachment?aid=-9065494617566186987&name=%E9%80%9F%E5%BA%A6%E5%BF%AB%E6%8A%93%E5%9C%96%E5%B0%8F.png
    http://moztw-web.googlecode.com/issues/attachment?aid=-5389231520064399335&name=%E7%84%A1%E6%95%B5%E5%BF%AB%E6%8A%93%E5%9C%96.png
 
-   是的，每個瀏覽器光顯示網頁都差不多快 (勝負一秒內)，讓我們看看網路重要功能 JavaScript 的表現如何。在 JavaScript 測試中，Firefox 3 比  IE8 快了將近一倍。不要懷疑，因為縱軸是時間，所以越少越快。待 Firefox 3.5 釋出後，新一代 JavaScript 引擎還會更快。圖中的 Minefield 即為正在開發中的下一代 Firefox，其速度大幅躍進，數據和擁有 Google V8 引擎加持的 Chrome 不相上下。我們樂見瀏覽器對於 JavaScript 速度的改善，因為這有助於程式設計師開發更好更棒的服務。
-
+       有人說，每個瀏覽器顯示網頁 url=http://www.microsoft.com/windows/internet-explorer/videos.aspx?mname=IE8_Perf_Test2都差不多快/url，讓我們看看每個瀏覽器在重要的 JavaScript 上表現如何。在 url=http://taiwan.cnet.com/crave/0,2000088746,20136427,00.htm CNET/url 的測試中，Firefox 3 比起 IE8 快了將近一倍（縱軸是時間，越少越快），而具備新一代 JavaScript 引擎的 Firefox 3.5 還會更快。實驗中，Minefield（Firefox 開發中版本）的速度大幅躍進，和經過 V8 引擎加持的 Google Chrome 不相上下。
+    
+   我們樂見各瀏覽器在 JavaScript 執行速度的改善，這有助於程式設計師能開發出更好、更棒的服務。 
+   
 http://www.cnet.co.uk/i/c/blg/cat/software/safari4_benchmarks/pc_benchmarks2.jpg
+（圖說：IE 7 慘不忍睹的表現） 
 
-IE 7 的使用者，如果你不願意換到 Firefox，也請你至少升級到 IE 8 吧。看看這慘不忍睹的圖表，我真的不知道該說什麼了。
- 
-   http://taiwan.cnet.com/crave/0,2000088746,20136427,00.htm
-   http://taiwan.cnet.com/digilife/0,2000089053,20136419,00.htm
+資料來源：url=http://taiwan.cnet.com/crave/0,2000088746,20136427,00.htm Crave 科技瘋: Safari 4 JavaScript 測試 CNET UK 版/url
 
 = 請找出微軟下載 IE8 的連結 =
 型態：找資料
