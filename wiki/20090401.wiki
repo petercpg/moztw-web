@@ -20,6 +20,8 @@
    # 然後歡迎大家安裝 Firefox 加上 WebChunks 和 Firefox Activities
    # (強調 Firefox 是最能自訂網路體驗的瀏覽器)
 
+== 熱門功能的背景灰色是 #EFEFEF （參考IE8頁面中間） ==
+
 == 加速器 ==
    使用加速器更快地完成工作
 
