@@ -50,3 +50,4 @@
      * 需要 product-front-firefox.png 白底 png 圖檔
 
 prob: feature-block 依賴內容把大小撐大，所以拿掉 download 可能要再放更多文字或是其他圖文?
+irvin: 直接把我上面那張有照片的圖丟進去撐大，右邊用立即體驗字樣，下面「 立即體驗 Internet Explorer 8！」、「立即體驗按鈕」
