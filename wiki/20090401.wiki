@@ -48,11 +48,12 @@
 
 == Smart Screen 篩選器 ==
 
-（還沒抓好圖……irvin）
+   http://moztw-web.googlecode.com/issues/attachment?aid=6695193707535939167&name=Smartscreen%E6%8A%93%E5%9C%96%E5%B0%8F.png
+   http://moztw-web.googlecode.com/issues/attachment?aid=6128341838421477446&name=Smartscreen%E6%8A%93%E5%9C%96.png
 
-保持線上更安全
+   保持線上更安全
 
-古老的「SmartScreen 篩選器」可透過保護您免受詐騙和惡意網站的攻擊，從而避免洩漏您的資料、隱私權和身份，讓您更安全地瀏覽和收發電子郵件。2006 年公開的 Firefox 2 早已內建此項防惡意網站功能，使用 url=http://www.google.com/ Google/url 及 url=http://www.phishtank.com/ PhishTank/url 提供的惡意網站資訊保全您的網路體驗。
+   古老的「SmartScreen 篩選器」可透過保護您免受詐騙和惡意網站的攻擊，從而避免洩漏您的資料、隱私權和身份，讓您更安全地瀏覽和收發電子郵件。2006 年公開的 Firefox 2 早已內建此項防惡意網站功能，使用 url=http://www.google.com/ Google/url 及 url=http://www.phishtank.com/ PhishTank/url 提供的惡意網站資訊保全您的網路體驗。
 
 = 請找出微軟下載 IE8 的連結 =
 型態：找資料
