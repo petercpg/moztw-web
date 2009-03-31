@@ -32,7 +32,7 @@
  * *認領人：BobChao*
    # http://www.microsoft.com/taiwan/windows/internet-explorer/worldwide-sites.aspx
 
-= /events/20090401/ 網頁統整編排 =
+= /events/2009ie8/ 網頁統整編排 =
 型態：統整網頁編排
 
  * *認領人：*
