@@ -3,48 +3,43 @@
 = 首頁 IE8 的宣傳圖文 =
 型態：找資料、編寫文字與圖片
 
-*認領人：*
-
-文字大概是「立刻體驗最新的 Internet Explorer 8 『功能』」這樣的東西
-風格參考： http://www.microsoft.com/taiwan/windows/internet-explorer/default.aspx
-放在首頁中央藍色區塊
+ * *認領人：*
+   # 文字大概是「立刻體驗最新的 Internet Explorer 8 『功能』」這樣的東西
+   # 風格參考： http://www.microsoft.com/taiwan/windows/internet-explorer/default.aspx
+   # 放在首頁中央藍色區塊
 
 = 網頁快訊及加速器介紹 =
 型態：找資料、編寫文字與圖片
 
-*認領人：*
-
-文字就用 IE8 那邊來的就好 XD
-然後歡迎大家安裝 Firefox 加上 WebChunks 和 Firefox Activities
-(強調 Firefox 是最能自訂網路體驗的瀏覽器)
+ * *認領人：*
+   # 文字就用 IE8 那邊來的就好 XD
+   # 然後歡迎大家安裝 Firefox 加上 WebChunks 和 Firefox Activities
+   # (強調 Firefox 是最能自訂網路體驗的瀏覽器)
 
 = IE8 其他功能介紹 =
 型態：找資料、編寫文字與圖片
 
-*認領人：*
-
-- Smart Screen (ps. Firefox 2 2006 年已加入)
-- 相容性檢視 (IE Tab 2004 年已發明)
-- 速度快 (列出 IE8 official performance sheet video, 外加  CNET JavaScript 測速圖表。)
+ * *認領人：*
+   # - Smart Screen (ps. Firefox 2 2006 年已加入)
+   # - 相容性檢視 (IE Tab 2004 年已發明)
+   # - 速度快 (列出 IE8 official performance sheet video, 外加  CNET JavaScript 測速圖表。)
 
 = 請找出微軟下載 IE8 的連結 =
 型態：找資料
 
-*認領人：BobChao*
-
-http://www.microsoft.com/taiwan/windows/internet-explorer/worldwide-sites.aspx
+ * *認領人：BobChao*
+   # http://www.microsoft.com/taiwan/windows/internet-explorer/worldwide-sites.aspx
 
 = /events/20090401/ 網頁統整編排 =
 型態：統整網頁編排
 
-*認領人：*
+ * *認領人：*
 
 = /index.shtml 首頁內容更換 =
 型態：統整網頁編排
 
-*認領人：BobChao*
-
-  # 將「首頁 IE8 宣傳」放上 feature-block
-  # 將「Thunderbird」移到目前「鬥陣遊台灣」區塊
-  # 將「Firefox」下載移到目前「Thunderbird」區塊
-    * 需要 product-front-firefox.png 白底 png 圖檔
+ * *認領人：BobChao*
+   # 將「首頁 IE8 宣傳」放上 feature-block
+   # 將「Thunderbird」移到目前「鬥陣遊台灣」區塊
+   # 將「Firefox」下載移到目前「Thunderbird」區塊
+     * 需要 product-front-firefox.png 白底 png 圖檔
