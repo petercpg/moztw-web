@@ -30,7 +30,9 @@
 = 請找出微軟下載 IE8 的連結 =
 型態：找資料
 
-*認領人：*
+*認領人：BobChao*
+
+http://www.microsoft.com/taiwan/windows/internet-explorer/worldwide-sites.aspx
 
 = /events/20090401/ 網頁統整編排 =
 型態：統整網頁編排
@@ -40,7 +42,7 @@
 = /index.shtml 首頁內容更換 =
 型態：統整網頁編排
 
-*認領人：*
+*認領人：BobChao*
 
 # 將「首頁 IE8 宣傳」放上 feature-block
 # 將「Thunderbird」移到目前「鬥陣遊台灣」區塊
