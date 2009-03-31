@@ -4,7 +4,7 @@
 = 首頁 IE8 的宣傳圖文 =
 型態：找資料、編寫文字與圖片
 
- * *認領人：*
+ * *認領人：Irvin (所有的圖片)
    # 文字大概是「立刻體驗最新的 Internet Explorer 8 『功能』」這樣的東西
    # 風格參考： http://www.microsoft.com/taiwan/windows/internet-explorer/default.aspx
    # 放在首頁中央藍色區塊
