@@ -59,6 +59,8 @@
 == 速度快 ==
 http://www.cnet.co.uk/i/c/blg/cat/software/safari4_benchmarks/pc_benchmarks1.jpg
 
+在JavaScript測試中，Firefox 3 比  IE8 快了將近一倍，待新一代 JavaScript 引擎正式完成後還會更快。
+
 http://taiwan.cnet.com/crave/0,2000088746,20136427,00.htm
 
 http://taiwan.cnet.com/digilife/0,2000089053,20136419,00.htm
