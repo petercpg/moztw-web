@@ -56,6 +56,11 @@
 
    古老的「SmartScreen 篩選器」可透過保護您免受詐騙和惡意網站的攻擊，從而避免洩漏您的資料、隱私權和身份，讓您更安全地瀏覽和收發電子郵件。2006 年公開的 Firefox 2 早已內建此項防惡意網站功能，使用 url=http://www.google.com/ Google/url 及 url=http://www.phishtank.com/ PhishTank/url 提供的惡意網站資訊保全您的網路體驗。
 
+== 速度快 ==
+
+http://taiwan.cnet.com/crave/0,2000088746,20136427,00.htm
+http://taiwan.cnet.com/digilife/0,2000089053,20136419,00.htm
+
 = 請找出微軟下載 IE8 的連結 =
 型態：找資料
 
