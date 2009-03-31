@@ -19,7 +19,17 @@
    # 文字就用 IE8 那邊來的就好 XD
    # 然後歡迎大家安裝 Firefox 加上 WebChunks 和 Firefox Activities
    # (強調 Firefox 是最能自訂網路體驗的瀏覽器)
-   
+
+== 加速器 ==
+使用加速器更快地完成工作
+
+只要按幾下滑鼠，就可以檢視行駛路線、翻譯文字、在網路上將您搜索的內容以電子郵件形式傳送給其他人，以及其他功能。利用 [url=https://addons.mozilla.org/zh-TW/firefox/addon/6777]Firefox Activities 擴充套件[/url] 的「加速器」功能，更快速地完成每日的瀏覽活動。
+
+立即試用這些加速器
+
+[url=http://ieaddons.com/ct/Details.aspx?Id=1911]URMAP 你的地圖[/url] - 安裝 URMAP 加速器，在網頁上圈選想查詢的地址，就可以快速取得該地址的地圖。
+
+→[url=http://ieaddons.com/ct/accelerators/] 尋找其他有用的「加速器」[/url]
 
 = IE8 其他功能介紹 =
 型態：找資料、編寫文字與圖片
