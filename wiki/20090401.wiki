@@ -40,8 +40,10 @@
 = /index.shtml 首頁內容更換 =
 型態：統整網頁編排
 
- * *認領人：timdream
+ * *認領人：timdream*
    # 將「首頁 IE8 宣傳」放上 feature-block
    # 將「Thunderbird」移到目前「鬥陣遊台灣」區塊
    # 將「Firefox」下載移到目前「Thunderbird」區塊
      * 需要 product-front-firefox.png 白底 png 圖檔
+
+prob: feature-block 依賴內容把大小撐大，所以拿掉 download 可能要再放更多文字或是其他圖文?
