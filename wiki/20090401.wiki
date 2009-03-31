@@ -44,6 +44,7 @@ http://www.microsoft.com/taiwan/windows/internet-explorer/worldwide-sites.aspx
 
 *認領人：BobChao*
 
-# 將「首頁 IE8 宣傳」放上 feature-block
-# 將「Thunderbird」移到目前「鬥陣遊台灣」區塊
-# 將「Firefox」下載移到目前「Thunderbird」區塊
+  # 將「首頁 IE8 宣傳」放上 feature-block
+  # 將「Thunderbird」移到目前「鬥陣遊台灣」區塊
+  # 將「Firefox」下載移到目前「Thunderbird」區塊
+    * 需要 product-front-firefox.png 白底 png 圖檔
