@@ -10,7 +10,9 @@
    # http://moztw-web.googlecode.com/issues/attachment?aid=-9067830802580252838&name=%E7%AB%8B%E5%88%BB%E9%AB%94%E9%A9%97IE8%E6%9C%80%E6%96%B0%E5%8A%9F%E8%83%BD.png
    # 風格參考： http://www.microsoft.com/taiwan/windows/internet-explorer/default.aspx
    # 放在首頁中央藍色區塊
-   # 背景顏色是 #2773BB
+
+== 首頁背景顏色是 #2773BB ==
+== 熱門功能的背景灰色是 #EFEFEF （參考IE8頁面中間） ==
 
 = 網頁快訊及加速器介紹 =
 型態：找資料、編寫文字與圖片
@@ -19,11 +21,14 @@
    # 文字就用 IE8 那邊來的就好 XD
    # 然後歡迎大家安裝 Firefox 加上 [https://addons.mozilla.org/firefox/addon/8494 WebChunks] 和 Firefox Activities
    # (強調 Firefox 是最能自訂網路體驗的瀏覽器)
+
+== Web Slices ==
+   http://moztw-web.googlecode.com/issues/attachment?aid=-6413487137814768179&name=Web+Slices%E6%8A%93%E5%9C%96%E5%B0%8F.png
+   http://moztw-web.googlecode.com/issues/attachment?aid=3927208329080125203&name=Web+Slices%E6%8A%93%E5%9C%96.png
+
    * wini: IE8 提供的網頁快訊範例，只有 MSN 可以給 WebChunks 加，其它全要求用 IE8，但 MSN 的並不能跑出什麼東西。
      # [http://ieaddons.com/ct/webslices/ IE8 提供的網頁快訊範例站]
      # [http://atelier-wini.blogspot.com/ 我自己網誌右邊那欄]，照 WebChunks 網站教學寫出的倒是還可以給 IE8 跑。
-
-== 熱門功能的背景灰色是 #EFEFEF （參考IE8頁面中間） ==
 
 == 加速器 ==
    http://moztw-web.googlecode.com/issues/attachment?aid=6824264581859427260&name=%E5%8A%A0%E9%80%9F%E5%99%A8%E6%8A%93%E5%9C%96%E5%B0%8F.png
