@@ -16,7 +16,7 @@ We are currently, or going to, looking for people at following positions:
 
   * Localization project manager - Firefox and Fennec: (~ Sep 2009,  after Fx 3.5 release)
     * Requirement:
-       # Ability to collect, accept, and organize UI translations on various channel.
+       # Ability to collect, accept, and organize UI translation suggestions on various channel.
        # A time frame available to see through at least one version of Firefox development, usually last 6 to 9 months.
        # Ability to handle software UI wording with great care, and with patience on UI testing.
        # Ability to communicate with Mozilla personal *in English* at Bugzilla and mailing lists.
