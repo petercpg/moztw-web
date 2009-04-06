@@ -51,8 +51,23 @@ We are currently, or going to, looking for people at following positions:
        # Ability to work with POSIX shell.
        # Experiences on Ubuntu/Debian or FreeBSD server administration.
 
+== 美術設計 ==
+
+  * 美術設計 - 網站:
+    * 需求:
+      # 願意和網頁設計師合作，建立符合需求的互動設計
+      # 願意在 UI 互動測試後重新改善設計
+  * 美術設計 - 平面/圖形宣傳物:
+
+== 活動企劃 ==
+
+  * 活動企劃經理 - 單一活動:
+  * 活動企劃經理 - Release 規劃:
+
 == 討論區管理員 ==
 
 == 文件專案 ==
 
-== 活動企劃 ==
+  * 文件專案編輯 - Mozilla Links 中文版:
+  * 文件專案經理 - Mozilla Links 中文版:
+  * 文件專案經理 - support.mozilla.org 與 wiki.moztw.org:
