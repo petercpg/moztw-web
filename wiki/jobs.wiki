@@ -26,6 +26,8 @@ We are currently, or going to, looking for people at following positions:
   * Localization project manager - Camino
     * Refer above for requirement.
        # Also, knowledge to Mac software localization is required.
+  * Localization project manager - addons.mozilla.org
+    * Refer above for requirement.
 
 == Web Developers ==
 
