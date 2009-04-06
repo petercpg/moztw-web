@@ -38,6 +38,8 @@ We are currently, or going to, looking for people at following positions:
        # Willing to read through English documentations and issue lists when debugging.
        # Experiences and knowledge on building an user-generated content website, with understanding on methods to boost user participation.
        # Optionally, ability to design UI graphics.
+  * Project manager - gfx.tw (approx. after Sep 2009):
+    * Refer above for requirement.
   * Web developer - moztw.org:
     * Requirement:
        # Knowledge on various web software, e.g. phpBB, Planets, MediaWiki, etc.
