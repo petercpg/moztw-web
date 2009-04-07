@@ -4,13 +4,13 @@ proposed page on http://www.moztw.org/jobs/ or http://www.moztw.org/career/
 
 ----
 
-Mozilla Taiwan is a community-based organization. We give out job titles *not because they are paid*, but because these people accept job titles will be given actual responsibilities. Also, you will have a final say on decisions regarding these issues. _Great power comes with great responsibilities._
+Mozilla Taiwan is a community-based organization. We give out job titles *not because they are paid*, but because those who accept these job titles will be given actual responsibilities. Also, you will have a final say on the decisions regarding these issues. _With great power comes great responsibilities._
 
-MozTW 是一個「社群」，我們給予職務頭銜，不是因為我們發薪水，而是因為會有真正的職責。另外，他們對該工作也有最終的決定權。_Great power comes with great responsibilities._
+MozTW 是一個「社群」，我們給予職務頭銜，不是因為我們發薪水，而是因為會有真正的職責。另外，他們對該工作也有最終的決定權。_With great power comes great responsibilities._
 
 == Jobs ==
 
-We are currently, or going to, looking for people at following positions:
+We are currently, or going to be, looking for people at following positions:
 
 === Localization Projects Managers ===
 
