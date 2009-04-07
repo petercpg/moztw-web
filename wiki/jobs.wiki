@@ -19,7 +19,7 @@ We are currently, or going to, looking for people at following positions:
        # Ability to collect, accept, and organize UI translation suggestions on various channel.
        # A time frame available to see through at least one version of Firefox development, usually last 6 to 9 months.
        # Ability to handle software UI wording with great care, and with patience on UI testing.
-       # Ability to communicate with Mozilla personal *in English* at Bugzilla and mailing lists.
+       # Ability to communicate with Mozilla personnel *in English* at Bugzilla and mailing lists.
        # Willing to give presentations to OSS community at large when required.
   * Localization project manager - SeaMonkey
     * Refer above for requirement.
