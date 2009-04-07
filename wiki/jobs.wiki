@@ -15,43 +15,43 @@ We are currently, or going to be, looking for people at following positions:
 === Localization Projects Managers ===
 
   * Localization project manager - Firefox and Fennec: (~ Sep 2009,  after Fx 3.5 release)
-    * Requirement:
-       # Ability to collect, accept, and organize UI translation suggestions on various channel.
-       # A time frame available to see through at least one version of Firefox development, usually last 6 to 9 months.
+    * Requirements:
+       # Ability to collect, accept, and organize UI translation suggestions on various channels.
+       # A time frame available to see through at least one version of Firefox development, usually lasting 6 to 9 months.
        # Ability to handle software UI wording with great care, and with patience on UI testing.
        # Ability to communicate with Mozilla personnel *in English* at Bugzilla and mailing lists.
-       # Willing to give presentations to OSS community at large when required.
+       # Willingness to give presentations to the OSS community at large when required.
   * Localization project manager - SeaMonkey
-    * Refer above for requirement.
+    * Refer to the above for requirements.
   * Localization project manager - Camino
-    * Refer above for requirement.
-       # Also, knowledge to Mac software localization is required.
+    * Refer to the above for requirements.
+       # Also, knowledge of Mac software localization is required.
   * Localization project manager - addons.mozilla.org
-    * Refer above for requirement.
+    * Refer to the above for requirements.
 
 == Web Developers ==
 
   * Web developer - gfx.tw:
-    * Requirement:
-       # Knowledge on web development in LAMP platform.
-       # Intermediate skill on JavaScript, php and any of the MVC model framework (e.g. CodeIgniter, cakePHP)
-       # Willing to read through English documentations and issue lists when debugging.
-       # Experiences and knowledge on building an user-generated content website, with understanding on methods to boost user participation.
-       # Optionally, ability to design UI graphics.
+    * Requirements:
+       # Knowledge of web development on the LAMP platform.
+       # Intermediate skills of JavaScript, PHP, and any of the MVC model frameworks (e.g. CodeIgniter, CakePHP)
+       # Willingness to read through English documentations and issue lists when debugging.
+       # Experience and knowledge in building a user-generated content website, with understanding to methods in boosting user participation.
+       # Optionally, the ability to design UI graphics.
   * Project manager - gfx.tw (approx. after Sep 2009):
-    * Refer above for requirement.
+    * Refer to the above for requirements.
   * Web developer - moztw.org:
     * Requirement:
-       # Knowledge on various web software, e.g. phpBB, Planets, MediaWiki, etc.
-       # Willing to on call for unfortunate emergencies.
+       # Knowledge of various web software, e.g. phpBB, Planet, MediaWiki, etc.
+       # Willingness to be on call for unfortunate emergencies.
        # Ability to work with POSIX shell.
 
 == System Administrator ==
 
   * System administrator:
-    * Requirement:
+    * Requirements:
        # Ability to work with POSIX shell.
-       # Experiences on Ubuntu/Debian or FreeBSD server administration.
+       # Experience in Ubuntu/Debian or FreeBSD server administration.
 
 == 美術設計 ==
 
