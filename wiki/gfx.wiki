@@ -1,29 +1,23 @@
 = May 16 Release =
 
-  * Top page introduction block content: Registrano style website graphic intro
-  * Dragging features instead of choosing and clicking OK
-    * Custom feature suggestion
-  * UI Dialog height should not exceed window height 
-  * Give us feedback [forum link]
-  * /feature (feature index page)
-  * pretty 404 indicate this page is available
+來寫 bug list ...
 
-  * Icon (EvenWu)
-  * Sticker (OOBE)
-    * sticker page layout
-
-== To be discussed ==
-
-  * free layout page style
-
-== To be verified ==
-
-  * query openid from email
-  * Top page introduction block (slide down from header)
-    * Top page introduction block content: Random user avatars
-  * Add-on group change: new user / pro user / general
-  * changing avatar is not quite discoverable.
-  * name < 3
+|| *Type* || *Release blocker* || *Title/description* || *Blocked by* ||
+|| Cosmetic          || Yes (tim)         || JQuery dialog 的大小在 IE6 水土不服，且有可能比小筆電的螢幕大 || 樓下(?) ||
+|| Cosmetic          || Yes (tim)         || JQuery dialog 大小微調 || ||
+|| Cosmetic          || Yes (tim)         || 沒有人用的推薦頁網址要 show pretty 404 || ||
+|| -          || Yes               || Icon || ||
+|| Cosmetic          || No              || Sticker page layout || below ||
+|| -          || Yes               || Sticker || ||
+|| -          || Yes               || Feature texts || ||
+|| Function          || ?               || Custom feature texts || 是不是 release blocker? ||
+|| Cosmetic, interaction          || ?               || About, feature page layout || 還沒有 idea 要怎麼做 ||
+|| Interaction || ?               || Addon list UI || Improve current or 砍掉重鍊? ||
+|| Interaction || Yes               || Bug: Groups dims when user drags addon || 樓上, 因為不知道是否要砍掉重鍊 ||
+|| Interaction || Yes               || Bug: New addon dialog fail to receive focus after query || ||
+|| Interaction, Function          || ?                 || Intro, Dashboard, and Login page like http://twitter.com/ , http://twitter.com/home , and http://twitter.com/login || 樓下 ||
+|| 
+|| Function          || ?                 || 沒有吸引使用者回來維護推薦頁的功能 || 討論不出來可以做什麼 ||
 
 === Header behavior ===
 
