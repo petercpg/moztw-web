@@ -1,0 +1,10 @@
+#labels Phase-Design
+GFX alpha 2
+
+= Alpha 2 開發主題 =
+
+= 團隊、分工 =
+
+= 里程碑 =
+
+= 目標功能 =
