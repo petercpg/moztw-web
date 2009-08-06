@@ -1,5 +1,5 @@
+#summary GFX alpha 2
 #labels Phase-Design
-GFX alpha 2
 
 = Alpha 2 開發主題 =
 
