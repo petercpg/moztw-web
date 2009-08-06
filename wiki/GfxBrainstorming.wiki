@@ -1,5 +1,5 @@
+#summary GFX 許願專區
 #labels Featured,Phase-Design
-#GFX 許願專區
 
 = 許願池 =
 
